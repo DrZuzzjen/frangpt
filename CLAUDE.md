@@ -46,3 +46,6 @@
    - Create PR
    - Merge to main
 3. This ensures clean history and safe deployment
+
+## Memories
+- How to access GitHub: Use SSH keys or personal access token for authentication. Clone repositories using SSH URL (git@github.com:username/repo.git) or HTTPS URL. Always use two-factor authentication for account security.
